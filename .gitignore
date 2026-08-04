@@ -1,0 +1,43 @@
+# 环境变量（绝对不能提交！）
+.env
+.env.local
+.env.*.local
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 模型文件（太大，不提交）
+lora_model/
+lora_model_improved/
+merged_model/
+*.safetensors
+*.bin
+*.h5
+*.pt
+*.pth
+
+# 训练输出
+lora_output/
+outputs/
+logs/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# 其他
+*.log
+*.tmp
+*.bak

@@ -1,0 +1,402 @@
+[
+  {
+    "instruction": "翻译成英文",
+    "input": "今天天气很好",
+    "output": "The weather is very nice today."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "我喜欢编程",
+    "output": "I enjoy programming."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "明天会更好",
+    "output": "Tomorrow will be better."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "这本书很有趣",
+    "output": "This book is very interesting."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "我想去旅行",
+    "output": "I want to travel."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "他是一名老师",
+    "output": "He is a teacher."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "她在学习英语",
+    "output": "She is learning English."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "我们在吃饭",
+    "output": "We are eating."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "他们会来的",
+    "output": "They will come."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "你应该休息",
+    "output": "You should rest."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "学习很重要",
+    "output": "Learning is very important."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "工作很努力",
+    "output": "Works very hard."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "时间很宝贵",
+    "output": "Time is precious."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "友谊很珍贵",
+    "output": "Friendship is precious."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "家庭很温暖",
+    "output": "The family is very warm."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "人工智能很强大",
+    "output": "Artificial intelligence is very powerful."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "大数据很有用",
+    "output": "Big data is very useful."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "云计算很便捷",
+    "output": "Cloud computing is very convenient."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "互联网很普及",
+    "output": "The internet is widely popular."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "科技改变生活",
+    "output": "Technology transforms life."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "这个菜很好吃",
+    "output": "This dish is delicious."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "那家餐厅很棒",
+    "output": "That restaurant is excellent."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "我喜欢吃水果",
+    "output": "I like eating fruits."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "她喜欢喝咖啡",
+    "output": "She likes drinking coffee."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "我们喜欢吃面",
+    "output": "We enjoy eating noodles."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "我想去北京",
+    "output": "I want to go to Beijing."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "我想去上海",
+    "output": "I want to go to Shanghai."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "我想去广州",
+    "output": "I want to go to Guangzhou."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "我想去杭州",
+    "output": "I want to go to Hangzhou."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "我想去成都",
+    "output": "I want to go to Chengdu."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "长城很壮观",
+    "output": "The Great Wall is magnificent."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "故宫很宏伟",
+    "output": "The Forbidden City is magnificent."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "西湖很美",
+    "output": "West Lake is very beautiful."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "外滩很漂亮",
+    "output": "The Bund is very beautiful."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "东方明珠很高",
+    "output": "The Oriental Pearl is very tall."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "坚持就是胜利",
+    "output": "Perseverance leads to victory."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "失败是成功之母",
+    "output": "Failure is the mother of success."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "团结就是力量",
+    "output": "Unity is strength."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "知识就是力量",
+    "output": "Knowledge is power."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "诚信是做人之本",
+    "output": "Integrity is the foundation of one's character."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "我很高兴见到你",
+    "output": "I am very glad to meet you."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "很高兴认识你",
+    "output": "Nice to meet you."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "见到你很高兴",
+    "output": "Nice to meet you."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "很高兴和你交流",
+    "output": "I am very glad to communicate with you."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "很高兴和你合作",
+    "output": "Glad to cooperate with you."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "这个方案很好",
+    "output": "This plan is very good."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "那个计划很棒",
+    "output": "That plan is excellent."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "这个想法很新颖",
+    "output": "This idea is quite novel."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "那个建议很实用",
+    "output": "That suggestion is very practical."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "这个方案很可行",
+    "output": "This plan is very feasible."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "每天学习一点点",
+    "output": "Learn a little every day."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "进步需要努力",
+    "output": "Progress requires effort."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "成功源于坚持",
+    "output": "Success comes from perseverance."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "失败不可怕",
+    "output": "Failure is not scary."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "重新站起来",
+    "output": "Stand up again."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "大海很辽阔",
+    "output": "The sea is vast."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "天空很蓝",
+    "output": "The sky is very blue."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "星星很亮",
+    "output": "The stars are shining brightly."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "月亮很美",
+    "output": "The moon is beautiful."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "太阳很温暖",
+    "output": "The sun is warm."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "春天来了",
+    "output": "Spring has arrived."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "夏天很热",
+    "output": "Summer is very hot."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "秋天很凉",
+    "output": "Autumn is quite cool."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "冬天很冷",
+    "output": "Winter is very cold."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "四季分明",
+    "output": "The four seasons are distinct."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "朋友很重要",
+    "output": "Friends are very important."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "家人最亲",
+    "output": "Family is the closest."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "老师很负责",
+    "output": "The teacher is very responsible."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "同学很友好",
+    "output": "My classmates are very friendly."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "同事很合作",
+    "output": "My colleagues are very cooperative."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "工作要认真",
+    "output": "Work must be done with diligence."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "学习要勤奋",
+    "output": "Study requires diligence."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "生活要快乐",
+    "output": "Life should be joyful."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "健康要珍惜",
+    "output": "Cherish your health."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "时间要利用",
+    "output": "Time must be utilized."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "梦想很美好",
+    "output": "Dreams are beautiful."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "现实很骨感",
+    "output": "Reality is harsh."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "努力很值得",
+    "output": "The effort is well worth it."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "付出有回报",
+    "output": "Effort yields rewards."
+  },
+  {
+    "instruction": "翻译成英文",
+    "input": "未来很可期",
+    "output": "The future holds great promise."
+  }
+]
