@@ -1,0 +1,78 @@
+{
+  "lora": "./lora_model_improved",
+  "avg_bleu": 0.824,
+  "samples": [
+    {
+      "zh": "我今天很开心",
+      "ref": "I am very happy today",
+      "pred": "I am very happy today.",
+      "bleu": 1.0
+    },
+    {
+      "zh": "他正在看一本书",
+      "ref": "He is reading a book",
+      "pred": "He is reading a book.",
+      "bleu": 1.0
+    },
+    {
+      "zh": "这个城市很美丽",
+      "ref": "This city is very beautiful",
+      "pred": "This city is very beautiful.",
+      "bleu": 1.0
+    },
+    {
+      "zh": "我们需要更多时间",
+      "ref": "We need more time",
+      "pred": "We need more time.",
+      "bleu": 1.0
+    },
+    {
+      "zh": "她喜欢唱歌和跳舞",
+      "ref": "She likes singing and dancing",
+      "pred": "She likes singing and dancing.",
+      "bleu": 1.0
+    },
+    {
+      "zh": "春天是播种的季节",
+      "ref": "Spring is the season for sowing",
+      "pred": "Spring is the season for sowing.",
+      "bleu": 1.0
+    },
+    {
+      "zh": "知识改变命运",
+      "ref": "Knowledge changes destiny",
+      "pred": "Knowledge changes destiny.",
+      "bleu": 1.0
+    },
+    {
+      "zh": "坚持每天锻炼身体",
+      "ref": "Keep exercising every day",
+      "pred": "Keep exercising every day.",
+      "bleu": 1.0
+    },
+    {
+      "zh": "他历经千辛万苦，终于实现了自己的梦想",
+      "ref": "He finally realized his dream after going through countless hardships",
+      "pred": "He persevered through countless hardships to achieve his dream.",
+      "bleu": 0.2905
+    },
+    {
+      "zh": "尽管天气不好，他们还是按计划出发了",
+      "ref": "Despite the bad weather, they set off as planned",
+      "pred": "Despite the bad weather, they still set out on schedule.",
+      "bleu": 0.4799
+    },
+    {
+      "zh": "这本书深入浅出地讲解了机器学习的基本原理",
+      "ref": "This book explains the basic principles of machine learning in an accessible way",
+      "pred": "This book explains the basic principles of machine learning in a clear and concise manner.",
+      "bleu": 0.6525
+    },
+    {
+      "zh": "为了赶上截止日期，团队成员连续加班了整整一周",
+      "ref": "To meet the deadline, the team worked overtime for a whole week",
+      "pred": "To catch up with the deadline, team members worked overtime for a whole week.",
+      "bleu": 0.4656
+    }
+  ]
+}

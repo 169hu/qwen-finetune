@@ -1,0 +1,6 @@
+# ===== Streamlit Cloud 云端部署依赖（app.py 成果展示页）=====
+# 云端免费实例无法安装/承载 torch+transformers+peft（体积大且需本地 GPU），
+# 所以展示页只依赖轻量库。训练/推理完整依赖请见 requirements-train.txt。
+
+streamlit>=1.36.0
+pandas>=2.0.0

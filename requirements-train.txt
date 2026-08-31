@@ -1,0 +1,23 @@
+# ===== 本地训练 / 推理完整依赖（llm 云不可用时本地跑）=====
+# streamlit run app_full.py 或 运行 finetune_*.py 时使用本清单：
+# pip install -r requirements-train.txt
+
+# Web 演示（完整交互版）
+streamlit>=1.36.0
+
+# 训练
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+
+# 数据加载（训练用）
+datasets
+
+# loss 曲线绘制
+matplotlib
+
+# 数据生成（可选，gen_data.py 用 DeepSeek API）
+openai
+python-dotenv
