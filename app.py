@@ -15,9 +15,9 @@ import streamlit as st
 
 HERE = Path(__file__).resolve().parent
 
-st.set_page_config(page_title="Qwen 微调成果展示", page_icon="🌐", layout="wide")
+st.set_page_config(page_title="Qwen 微调成果展示", page_icon=":material/translate:", layout="wide")
 
-st.title("🌐 Qwen2-1.5B 中英翻译 · QLoRA 微调成果")
+st.title("Qwen2-1.5B 中英翻译 · QLoRA 微调成果", icon=":material/translate:")
 st.caption(
     "模型：Qwen2-1.5B-Instruct ｜ 方法：QLoRA（4bit + LoRA）｜ 任务：中→英翻译"
     " ｜ 训练 + 评测均在本地 GPU 完成，本页为成果报告展示。"
@@ -44,12 +44,12 @@ def main():
     col_c.metric("平均 BLEU", f"{eval_.get('avg_bleu', '—')}")
 
     # ---------------- 训练损失曲线 ----------------
-    st.subheader("📉 训练 Loss 曲线（smoke 30 步）")
+    st.subheader("训练 Loss 曲线（smoke 30 步）", icon=":material/show_chart:")
     hist = pd.DataFrame(smoke["history"])
     st.line_chart(hist.set_index("step")["loss"])
 
     # ---------------- 翻译样例 ----------------
-    st.subheader("🧪 中英翻译样例（微调后模型）")
+    st.subheader("中英翻译样例（微调后模型）", icon=":material/science:")
     sample_df = pd.DataFrame(
         [
             {"中文": s["zh"], "参考译文": s["ref"],
@@ -58,11 +58,11 @@ def main():
         ]
     )
     # 高亮后 3 条（具备难度的长难句），其余正常展示
-    st.dataframe(sample_df, use_container_width=True, hide_index=True)
+    st.dataframe(sample_df, width="stretch", hide_index=True)
 
     st.markdown("""
 ---
-### 💡 关于本页面
+### 关于本页面
 本页用于在云上展示**微调成果数据**（可被招聘方直接访问）。
 
 完整能力（交互式翻译、加载 LoRA 权重推理）请运行仓库内的本地脚本：

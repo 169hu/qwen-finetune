@@ -1,0 +1,19 @@
+# 纸白书卷主题（统一视觉规范：纸质米白底 #F6F4EF + 深蓝 #1F3E6E）
+[theme]
+base = "light"
+primaryColor = "#1F3E6E"
+backgroundColor = "#F6F4EF"
+secondaryBackgroundColor = "#ECE7DB"
+textColor = "#2A2722"
+linkColor = "#1F3E6E"
+borderColor = "#D8D1C2"
+baseRadius = "6px"
+buttonRadius = "4px"
+font = "sans-serif"
+headingFont = "serif"
+
+greenColor = "#3E6B4F"
+orangeColor = "#B0802F"
+redColor = "#A24A3B"
+blueColor = "#1F3E6E"
+grayColor = "#6B655B"
